@@ -1,11 +1,16 @@
 [![image](https://github.com/sirilak1606/sirilak1606/blob/master/header.png)](#)
 
-### Hi there 👋 Nice to see u.
-
-- 😄 My name is : Sirilak Uaonprasit
-- ⚡ Student id : 63366189
-- 🔭 I'm currently studying on Faculty of Engineering.
+- 👩‍🎓 Name : Sirilak Uaonprasit
+- 👩 Can call me : Moddum
+- 🗂️ Student id : 63366189
+- 📚 I'm currently studying on Faculty of Engineering.
 - 🥅 Interested : Software Tester
+
+## Education level
+- [x] Freshman
+- [x] Sophomore
+- [ ] Junior(studying)
+- [ ] Senior
 
 ## Developer Tech
 
@@ -40,6 +45,10 @@
 ### Tools 
 <p align="left">
 <a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+<a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a>
 
@@ -55,3 +64,6 @@
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
+
+
+
