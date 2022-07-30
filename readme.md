@@ -1,8 +1,9 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is : Sirilak Uaonprasit
+- ⚡ Student id : 63366189
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 🥅 Interested : Software Tester
 
 ## Developer Tech
 
@@ -48,10 +49,6 @@
 
 ## Devices / Manufacturers
 <p align="left">
-<a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>
-
 <a href="#">
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
   </a>
