@@ -1,6 +1,6 @@
 [![image](https://github.com/sirilak1606/sirilak1606/blob/master/header.png)](#)
 
-- 👩‍🎓 Name : Sirilak Uaonprasit
+- 👩‍💼 Name : Sirilak Uaonprasit
 - 👩 Can call me : Moddum
 - 🗂️ Student id : 63366189
 - 📚 I'm currently studying on Faculty of Engineering.
