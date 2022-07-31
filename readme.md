@@ -4,7 +4,8 @@
 - 👩 Can call me : Moddum
 - 🗂️ Student id : 63366189
 - 📚 I'm currently studying on Faculty of Engineering.
-- 🥅 Interested : Software Tester
+- 🥅 Careers : Software Tester
+- 💻 Interested : Algorithm
 
 ## Education level
 - [x] Freshman
